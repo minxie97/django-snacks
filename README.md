@@ -6,3 +6,7 @@
     * about page
     * create views/urls/templates as needed for home and about pages
     * use ancestor template to contain navigation elements
+
+# PR Link
+
+https://github.com/minxie97/django-snacks/pull/1
